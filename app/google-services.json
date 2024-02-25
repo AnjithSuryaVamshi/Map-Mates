@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "235558025330",
+    "project_id": "mapmates-89b51",
+    "storage_bucket": "mapmates-89b51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235558025330:android:35263b51860a90a8f1aaeb",
+        "android_client_info": {
+          "package_name": "com.example.mapmates"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKdm8H4_l3gE9qdNzze9aXkBHNQL7rFqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

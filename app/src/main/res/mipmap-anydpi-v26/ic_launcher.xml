@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@drawable/blogo" />
+    <foreground android:drawable="@drawable/blogo" />
+    <monochrome android:drawable="@drawable/blogo" />
+</adaptive-icon>
